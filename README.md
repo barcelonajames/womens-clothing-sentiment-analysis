@@ -1,7 +1,14 @@
 # Women's Clothing E-Commerce Sentiment Analysis
 ### Transformer-Based NLP with RoBERTa (Hugging Face)
 
-Sentiment analysis on 23,486 women's clothing e-commerce reviews using a pre-trained RoBERTa transformer model from Hugging Face. The project combines NLP inference with exploratory data analysis to surface patterns in customer sentiment across product categories, divisions, and departments.
+Sentiment analysis on women's clothing e-commerce reviews — 23,486 records explored through EDA, with RoBERTa transformer inference applied to a 2,000-review sample. The project combines NLP inference with exploratory data analysis to surface patterns in customer sentiment across product categories, divisions, and departments.
+
+## View the Notebook
+
+[Open in Google Colab](https://colab.research.google.com/drive/1Cn8H2mHaz96rCsEOfO8y8G1i7C_JIteJ?usp=drive_link)
+
+> **Note:** The RoBERTa model (~500MB) downloads automatically 
+> from Hugging Face on first run. Runtime → Run all to execute.
 
 ---
 
